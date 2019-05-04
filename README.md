@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="480" height="640" src="IMG_4774.jpg"/><div>
-</p>
+
 
 
 > Hi, I am a first year PhD student in Political Science at University of Houston.
