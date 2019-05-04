@@ -1,7 +1,8 @@
 # 𝓣𝓲𝓷𝓰-𝔀𝓮𝓲 𝓦𝓮𝓷𝓰
 
-<div align=center><img width="480" height="640" src="IMG_4774.jpg"/><div>
-<div align=center><img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" /></div>
+<p align="center">
+  <img width="480" height="640" src="IMG_4774.jpg"/><div>
+</p>
 
 
 > Hi, I am a first year PhD student in Political Science at University of Houston.
