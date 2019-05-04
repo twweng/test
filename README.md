@@ -1,3 +1,5 @@
+<img width="480" height="640" src="155696152368014.png"/>
+
 # 𝓣𝓲𝓷𝓰-𝔀𝓮𝓲 𝓦𝓮𝓷𝓰
 
 <div align=center> <img width="480" height="640" src="IMG_4774.jpg"/>
