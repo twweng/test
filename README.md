@@ -8,8 +8,8 @@
 Hi, I am a first year PhD student in Political Science at University of Houston.
 My research interests include political behavior and political psychology. Currently, I am working on relationship between different psychological components and different types of political participation.
 
-Please contact me at  <twweng913@gmail.com>
+>Please contact me at  <twweng913@gmail.com>
 
 
 
-Copyright © 2019 Ting-wei Weng
+>Copyright © 2019 Ting-wei Weng
