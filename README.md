@@ -1,5 +1,12 @@
 # 𝓣𝓲𝓷𝓰-𝔀𝓮𝓲 𝓦𝓮𝓷𝓰
 
+
+$ git branch <branchname>
+  $ git branch issue1
+  $ git branch
+  issue1
+* master
+
 <p align="center">
   <img width="480" height="640" src="IMG_4774.jpg"/><div>
 
