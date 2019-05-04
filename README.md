@@ -1,6 +1,6 @@
 # 🚀𝓣𝓲𝓷𝓰-𝔀𝓮𝓲 𝓦𝓮𝓷𝓰🚀
 
-<div align=center><img width="640" height="852" src="IMG_4774.jpg"/>
+<div align=center><img width="480" height="640" src="IMG_4774.jpg"/>
 
 
 > Hi, I am a first year PhD student in Political Science at University of Houston.
